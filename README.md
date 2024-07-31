@@ -134,11 +134,17 @@ background-color: rgba(0, 225, 0, 0.6);
 
 <h3><span class="yellow"><br>～～～エルドル川の辺り到着～～～<br><br></span></h3>
 
-
-
-
-
-
+<a href="20240731_015.JPG" data-lightbox="abc"><img src="20240731_015.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240731_016.JPG" data-lightbox="abc"><img src="20240731_016.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240731_017.JPG" data-lightbox="abc"><img src="20240731_017.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240731_018.JPG" data-lightbox="abc"><img src="20240731_018.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240731_019.JPG" data-lightbox="abc"><img src="20240731_019.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240731_020.JPG" data-lightbox="abc"><img src="20240731_020.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240731_021.JPG" data-lightbox="abc"><img src="20240731_021.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240731_022.JPG" data-lightbox="abc"><img src="20240731_022.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240731_023.JPG" data-lightbox="abc"><img src="20240731_023.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240731_024.JPG" data-lightbox="abc"><img src="20240731_024.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240731_025.JPG" data-lightbox="abc"><img src="20240731_025.JPG" alt="サンプル画像" width="900" /></a>
 
 <h3><span class="yellow"><br>～～～川沿いの道を進むと公園。少し日本風？～～～<br><br></span></h3>
 
