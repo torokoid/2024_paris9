@@ -115,87 +115,63 @@ background-color: rgba(0, 225, 0, 0.6);
 炎天下ななで客が日陰に避難<br></h3></div>
 
 
-<h3><span class="yellow"><br>～～～ナントのホテルの近道発見～～～<br><br></span></h3>
+<h2><span class="yellow"><marquee behavior="left">!!! 7/31ナントの朝は涼しく散歩にでる !!!</marquee></span></h2>
 
 
 
-<h2><span class="yellow"><marquee behavior="left">!!! 現在の主食 !!!</marquee></span></h2>
-
-
-
-<h3><span class="yellow"><br>徒歩17分スーパー<br>
-カラフール。昨日行ったスーパーでレジのおばちゃんからバックパックの中を見せろと疑われた。<br>今回は警備員にバックパックをみせたら、開けられないようにされました。<br><br></span></h3>
-
-
-
-<h3><span class="yellow"><br>～～～帰り道に寄り道。洗濯物を干していた。～～<br><br></span></h3>
-
-
-
-<h3><span class="yellow"><br>～～～フィスビルの裏側の芝生、女性たちが日陰で座っていた。電動車が充電中。～～～<br><br></span></h3>
-
-
-
-<h3><span class="yellow"><br>～～～フェンシングの練習場。～～～<br><br></span></h3>
-
-
-
-<h3><span class="yellow"><br>～～～所々に松が植えてある。～～～<br><br></span></h3>
-
-
-
-<h3><span class="yellow"><br>～～～20時になったので21時キックオフの日本男子対イスラエルを見に行く。<br>公園のプールでは子供達が遊んでいた。～～～<br><br></span></h3>
-
-
-
-<h3><span class="yellow"><br>～～～今日は上の方の見やすい席から観戦。～～～<br><br></span></h3>
-
-
-
-<h3><span class="yellow"><br>～～～イスラエル国家斉唱の時には立ち上がらない人、🇵🇸パレスチナ国旗を掲げる人。～～～<br><br></span></h3>
-
-
-
-<h3><span class="yellow"><br>～～～前半は退屈な展開。GKのブライアンのセーブが安定していた。～～～<br><br></span></h3>
-
-
-
-<h3><span class="yellow"><br>～～～🇵🇸パレスチナ国旗を掲げる人が係員からやめるよう言われいる模様。～～～<br><br></span></h3>
-
-
-
-<h3><span class="yellow"><br>～～～日本のCKの時のGK小久保ブライアン。<br>スタメンでないメンバーの攻撃に得点の気配なし。～～～<br><br></span></h3>
-
-
-
-<h3><span class="yellow"><br>～～～スタメンが入ると突然日本が別のチーム。～～～<br><br></span></h3>
+<h3><span class="yellow"><br>～～～エルドル川の辺り到着～～～<br><br></span></h3>
 
 
 
 
 
-<h3><span class="yellow"><br>～～～残り10分だけ日本の攻撃が面白くなった。時間稼ぎもしない。<br>選手挨拶～～～<br><br></span></h3>
+
+
+<h3><span class="yellow"><br>～～～川沿いの道を進むと公園。少し日本風？～～～<br><br></span></h3>
 
 
 
-<h3><span class="yellow"><br>～～～次はスペイン戦なので、90分分内勝利を見るの見納めかな。～～～<br><br></span></h3>
+<h3><span class="yellow"><br>～～～さらに川を登る～～<br><br></span></h3>
 
 
 
-<h3><span class="yellow"><br>～～～地元の人達は車で来ていたらしく、大渋滞。～～～<br><br></span></h3>
+<h3><span class="yellow"><br>～～～森を抜けると住宅地～～～<br><br></span></h3>
 
 
 
-<h3><span class="yellow"><br>～～～昨夜購入したリヨン行きパスチケットが無駄にならず。～～～<br><br></span></h3>
+<h3><span class="yellow"><br>～～～ボート～～～<br><br></span></h3>
 
 
 
-<h3><span class="yellow"><br>明日は日本女子対ナイジェリア<br>
-8/3準々決勝の場所は？<br>
-15:00 Paris<br>
-21:00 Nantes<br>
-17:00 Lyon<br><br>
-おしまい<br><br></span></h3>
+<h3><span class="yellow"><br>～～～暑くなってきたので戻る～～～<br><br></span></h3>
+
+
+
+<h3><span class="yellow"><br>～～～公園の松の枝ぶりが良い～～～<br><br></span></h3>
+
+
+
+<h3><span class="yellow"><br>～～～公園の中を横切りながら戻る～～～<br><br></span></h3>
+
+
+
+<h3><span class="yellow"><br>アパートでシャワー浴びて<br>
+遅めのランチをとり、日本女子対ナイジェリアを見に行く<br><br></span></h3>
+
+
+
+<h3><span class="yellow"><br>大味な試合。準々決勝は<br>
+男子スペイン、女子USA <br>
+日本サッカーオリンピック代表は巡る旅も、そろそろ佳境<br><br></span></h3>
+
+
+
+
+
+
+
+
+
 
 
 
