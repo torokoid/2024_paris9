@@ -178,7 +178,15 @@ background-color: rgba(0, 225, 0, 0.6);
 
 <h3><span class="yellow"><br>～～～ボート～～～<br><br></span></h3>
 
-
+<a href="20240731_047.JPG" data-lightbox="abc"><img src="20240731_047.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240731_048.JPG" data-lightbox="abc"><img src="20240731_048.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240731_049.JPG" data-lightbox="abc"><img src="20240731_049.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240731_050.JPG" data-lightbox="abc"><img src="20240731_050.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240731_051.JPG" data-lightbox="abc"><img src="20240731_051.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240731_052.JPG" data-lightbox="abc"><img src="20240731_052.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240731_053.JPG" data-lightbox="abc"><img src="20240731_053.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240731_054.JPG" data-lightbox="abc"><img src="20240731_054.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240731_055.JPG" data-lightbox="abc"><img src="20240731_055.JPG" alt="サンプル画像" width="900" /></a>
 
 <h3><span class="yellow"><br>～～～暑くなってきたので戻る～～～<br><br></span></h3>
 
