@@ -112,7 +112,7 @@ background-color: rgba(0, 225, 0, 0.6);
 <div style="background-color:rgb(255,255,255,0.8);">
 <h3><br>日本対ナイジェリア<br>
 ガラガラ<br>
-炎天下ななで客が日陰に避難<br></h3></div>
+炎天下なので客が日陰に避難<br></h3></div>
 
 
 <h2><span class="yellow"><marquee behavior="left">!!! 7/31ナントの朝は涼しく散歩にでる !!!</marquee></span></h2>
