@@ -221,7 +221,9 @@ background-color: rgba(0, 225, 0, 0.6);
 <h3><span class="yellow"><br>アパートでシャワー浴びて<br>
 遅めのランチをとり、日本女子対ナイジェリアを見に行く<br><br></span></h3>
 
-
+<a href="20240731_077.JPG" data-lightbox="abc"><img src="20240731_077.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240731_078.JPG" data-lightbox="abc"><img src="20240731_078.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240731_079.JPG" data-lightbox="abc"><img src="20240731_079.JPG" alt="サンプル画像" width="900" /></a>
 
 <h3><span class="yellow"><br>大味な試合。準々決勝は<br>
 男子スペイン、女子USA <br>
