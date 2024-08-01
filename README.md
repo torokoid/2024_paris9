@@ -225,9 +225,30 @@ background-color: rgba(0, 225, 0, 0.6);
 <a href="20240731_078.JPG" data-lightbox="abc"><img src="20240731_078.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240731_079.JPG" data-lightbox="abc"><img src="20240731_079.JPG" alt="サンプル画像" width="900" /></a>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uUpolEE7z1k?si=7yolcTf5_WvF3wUX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<a href="20240731_080.JPG" data-lightbox="abc"><img src="20240731_080.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240731_081.JPG" data-lightbox="abc"><img src="20240731_081.JPG" alt="サンプル画像" width="900" /></a>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ukuCOSyttUg?si=urTB_qBRa75lvy6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bBI-QzqIujQ?si=UouoU9r1jCdzabfE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uvTpKa7zIok?si=eY1WeELxKhevxESl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<a href="20240731_082.JPG" data-lightbox="abc"><img src="20240731_082.JPG" alt="サンプル画像" width="900" /></a>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EYsjQHO2qUg?si=aZz5lkWK6_FfwyBI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<a href="20240731_083.JPG" data-lightbox="abc"><img src="20240731_083.JPG" alt="サンプル画像" width="900" /></a>
+
 <h3><span class="yellow"><br>大味な試合。準々決勝は<br>
 男子スペイン、女子USA <br>
 日本サッカーオリンピック代表は巡る旅も、そろそろ佳境<br><br></span></h3>
+
+
+
+
 
 
 
