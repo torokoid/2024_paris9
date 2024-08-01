@@ -101,7 +101,7 @@ background-color: rgba(0, 225, 0, 0.6);
 
 <br><br>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
-<h2><span class="yellow"><marquee behavior="left">!!! 2024年7月29日、ナントでの地元民エリア探検とサッカー観戦 !!!</marquee></span></h2>
+<h2><span class="yellow"><marquee behavior="left">!!! 2024年7月31日、ナントでの地元民エリア探検とサッカー観戦 !!!</marquee></span></h2>
 <!--
 <div id="wrap">
 -->
