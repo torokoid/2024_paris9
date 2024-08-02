@@ -92,7 +92,7 @@ background-color: rgba(0, 225, 0, 0.6);
 </p>
 
 <!--<div style="background-color:rgb(255,255,255,0.5);">-->
-<p class="topicpath"><a href="https://torokoid.github.io/2024_paris/">2024年7月19日〜21日</a>><a href="https://torokoid.github.io/2024_paris2/">22日〜23日</a>><a href="https://torokoid.github.io/2024_paris3/">23日〜24日</a>><a href="https://torokoid.github.io/2024_paris4/">24日〜</a>><a href="https://torokoid.github.io/2024_paris5/">25日〜</a>><a href="https://torokoid.github.io/2024_paris6/">26日〜></a>><a href="https://torokoid.github.io/2024_paris7/">27日〜</a>><a href="https://torokoid.github.io/2024_paris8/">29日〜</a>>31日〜</p><!--</div>-->
+<p class="topicpath"><a href="https://torokoid.github.io/2024_paris/">2024年7月19日〜21日</a>><a href="https://torokoid.github.io/2024_paris2/">22日〜23日</a>><a href="https://torokoid.github.io/2024_paris3/">23日〜24日</a>><a href="https://torokoid.github.io/2024_paris4/">24日〜</a>><a href="https://torokoid.github.io/2024_paris5/">25日〜</a>><a href="https://torokoid.github.io/2024_paris6/">26日〜></a>><a href="https://torokoid.github.io/2024_paris7/">27日〜</a>><a href="https://torokoid.github.io/2024_paris8/">29日〜</a>>31日〜><a href="https://torokoid.github.io/2024_paris10/">8月1日〜</a></p><!--</div>-->
 
 <p align="left"> <span class="yellow">&nbsp;Bruce 31日〜</span></p>
 <!--<p><h2><a href="https://torokoid.github.io/list">クラス会名簿リンク</a></h2></p>-->
